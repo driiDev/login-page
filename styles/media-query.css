@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+@media screen and (min-width:768px) and (max-width: 992px){
+    body{
+        background-color: rgb(229, 217, 238);
+        padding: 50px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%)
+    }
+
+    .container{
+        width: 90vw;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    header{
+        height: 60vh;
+        width: 40vw;
+        background-image: linear-gradient(to right, var(--cor-principal), var(--cor-secundaria));
+        text-align: justify;
+        padding-left: 10px;
+        border-radius: 50px 0 0 50px;
+    }
+
+    main{
+        height: 60vh;
+        width: 60vw;
+        border-radius: 0 50px 50px 0;
+        background-color: white;
+    }
+
+    main > form > div{
+        width: 80%;
+        align-items: center;
+        padding-top: 170px;
+    }
+
+    main > form > p{
+        width: 150px;
+        margin-top: 30px;
+        margin-left: 90px;
+    }
+}
