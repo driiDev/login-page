@@ -5,11 +5,11 @@ Desenvolvida utilizando o conceito Mobile First, e com mais três media queries 
 ## Resultados
 
 ### Celulares
-![Para celulares](<Captura de tela 2024-04-29 152934.png>)
+![Para celulares](<assets/celulares.png>)
 ### Tablets e dispositivos maiores
-![Para tablets](<Captura de tela 2024-04-29 152909.png>)
+![Para tablets](<assets/tablets.png>)
 ### Notebooks
-![Para notebooks](<Captura de tela 2024-04-29 152829.png>)
+![Para notebooks](<assets/notebooks.png>)
 ### Desktops e telas maiores
-![Para desktops e telas maiores](<Captura de tela 2024-04-29 152757.png>)
+![Para desktops e telas maiores](<assets/dispositivos-maiores.png>)
 
