@@ -19,7 +19,7 @@
     }
 
     header{
-        height: 550px;
+        height: 570px;
         width: 315px;
         background-image: linear-gradient(to right, var(--cor-principal), var(--cor-secundaria));
         text-align: justify;
@@ -28,7 +28,7 @@
     }
 
     main{
-        height: 550px;
+        height: 570px;
         width: 510px;
         border-radius: 0 50px 50px 0;
         background-color: white;
@@ -86,7 +86,7 @@
     }
 
     main{
-        max-height: 370px;
+        max-height: 420px;
         width: 100%;
         background-color: white;
         border-radius: 0 0 30px 30px;
